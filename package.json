@@ -1,0 +1,10 @@
+{
+  "name": "slo-budget-burn-detector",
+  "version": "1.0.0",
+  "description": "JavaScript SLO 错误预算燃烧检测库，处理多窗口、缺失样本和服务聚合",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
